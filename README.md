@@ -49,6 +49,13 @@ The following image shows the web application's appearance and functionality:
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
+---
+![HTML](https://img.shields.io/badge/HTML-100%25-Green)
+
+---
+
+![HTML](https://img.shields.io/badge/CSS-100%25-Green)
+
 ### Getting Started
 
 Follow these instructions to create your project and deploy it to GitHub Pages:
@@ -77,11 +84,11 @@ This challenge is assessed on the following criteria:
 
 * Satisfies all of the above acceptance criteria plus the following code improvements:
 
-  * Application's links all function correctly.
+  * Application's links all function correctly. ![](https://img.shields.io/badge/-100%25-Green)
 
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure. ![](https://img.shields.io/badge/-100%25-Green)
 
-  * Application's CSS file is properly commented.
+  * Application's CSS file is properly commented. ![](https://img.shields.io/badge/-100%25-Green)
 
 #### Deployment: 32%
 
