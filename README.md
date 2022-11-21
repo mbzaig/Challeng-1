@@ -92,9 +92,9 @@ This challenge is assessed on the following criteria:
 
 #### Deployment: 32%
 
-* Application deployed at live URL.
+* Application deployed at live URL. ![](https://img.shields.io/badge/-100%25-Green)
 
-* Application loads with no errors.
+* Application loads with no errors. 
 
 * Application GitHub URL submitted.
 
