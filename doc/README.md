@@ -1,6 +1,6 @@
 ## Installation
 
-The website is hosted on Github, you can access it via the following link https://mbzaig.github.io/Challeng-1/#social-media-marketing.
+The website is hosted on Github, you can access it via the following link https://mbzaig.github.io/week1-challenge/.
 
 
 
