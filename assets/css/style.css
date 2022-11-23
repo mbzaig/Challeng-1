@@ -80,7 +80,7 @@ p {
 
 /* setting combined styling for different articles in the content section  */
 
-[id= "article-content"] {
+.article-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -101,7 +101,7 @@ p {
     max-height: 200px;
 }
 
-.section-benefits {
+.aside-benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -121,7 +121,7 @@ p {
 
 /* setting combined styling for h3 in the benefits section */
 
-.section-benefits h3 {
+.aside-benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
