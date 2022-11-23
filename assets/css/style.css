@@ -97,7 +97,7 @@ p {
 }
 /* setting max height for all images in the content section  */
 
-[id="img-content"] {
+.float-left, .float-right {
     max-height: 200px;
 }
 
@@ -127,7 +127,7 @@ p {
 }
 /* setting combined styling for img attributes in the benefits section */
 
-[id="img-benefits"] {
+.img-benefits {
     display: block;
     margin: 10px auto;
     max-width: 150px;
