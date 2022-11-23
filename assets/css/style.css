@@ -77,6 +77,12 @@ p {
     margin-left: 20px;
 }
 
+/* hidden h2 in section-content*/
+.hidden {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
 
 /* setting combined styling for different articles in the content section  */
 
