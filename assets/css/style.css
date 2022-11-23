@@ -114,7 +114,7 @@ p {
 
 
 /* setting combined styling for different articles in the benefits section */
-[id="article-benefits"] {
+.article-benefits{
     margin-bottom: 32px;
     color: #ffffff;
 }
