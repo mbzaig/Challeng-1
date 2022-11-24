@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-/* Syle Body*/
+/* Syle background Body*/
 body {
     background-color: #d9dcd6;
 }
@@ -59,17 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
-.float-left  {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right  {
-    float: right;
-    margin-right: 25px;
-}
-
+/*---------------------------<section>-------------------*/
 /* styling of the content section */
 .section-content {
     width: 75%;
@@ -84,6 +74,30 @@ p {
     left: -9999px;
   }
 
+  /* setting combined styling for h2 in the content section  */
+
+.section-content h2{
+    margin-bottom: 20px;
+    
+}
+
+.float-left  {
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 0px;
+}
+
+.float-right  {
+    float: right;
+    margin-right: 25px;
+    
+}
+
+/* setting max height for all images in the content section  */
+
+.float-left, .float-right {
+    max-height: 200px;
+}
 /* setting combined styling for different articles in the content section  */
 
 .article-content {
@@ -95,18 +109,7 @@ p {
     color: #ffffff;
 }
 
-/* setting combined styling for h2 in the content section  */
-
-.section-content h2{
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* setting max height for all images in the content section  */
-
-.float-left, .float-right {
-    max-height: 200px;
-}
-
+/*--------------------<aside>---------------*/
 .aside-benefits {
     margin-right: 20px;
     padding: 20px;
@@ -146,7 +149,6 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+.footer-heading {
     font-size: 20px;
 }
