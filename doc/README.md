@@ -14,7 +14,7 @@ The website is hosted on Github, you can access it via the following link https:
 
 * The footer contains information about copyright and designer
 
-![Live Website](assets\images\Live-Website-SC.jpg)
+![Live Website](Images\Live-Website-SC.jpg)
 
 ---
 * HTML Refactoring ![](https://img.shields.io/badge/-100%25-Green)
